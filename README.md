@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arjun-singh-panwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/arjun-s-rajput"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/arjunsrajput"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:arjunspanwar07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -13,28 +13,18 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Arjun Singh Panwar
-role: MCA Student @ NIT Trichy | Full-Stack Developer
-location: NIT Trichy, Tamil Nadu, India
-interests:
+Name: Arjun Singh Panwar
+Nole: MCA Student @ NIT Trichy | Full-Stack Developer
+Location: NIT Trichy, Tamil Nadu, India
+Interests:
   - Data Structures & Algorithms
   - Backend Development
-currently_building: MCARepo — Academic Resource Sharing Platform
+Currently_Building: MCARepo — Academic Resource Sharing Platform
 ```
 
 ---
 
 ## 🚀 Projects
-
-### 🗺️ [YatraAI](https://github.com/arjunsrajput) — AI-Powered Trip Planning Backend
-> Node.js · Express.js · MongoDB · OpenRouter API · JWT
-
-- Scalable RESTful backend for AI-powered travel planning
-- JWT authentication & middleware-based route protection
-- Integrated multiple LLM models via OpenRouter with fallback logic
-- Dynamic itinerary & budget optimization using MongoDB aggregation
-
----
 
 ### 📚 [MCARepo](https://github.com/arjunsrajput) — Academic Resource Sharing Platform
 > React · Node.js · Express.js · MongoDB · Cloudinary · JWT
@@ -43,6 +33,16 @@ currently_building: MCARepo — Academic Resource Sharing Platform
 - Metadata-driven organization: batch, year, semester, subject, exam type
 - JWT auth with email verification, password reset & admin routes
 - Features: contribution leaderboard, batch directory, GPA calculator
+
+---
+
+### 🗺️ [YatraAI](https://github.com/arjunsrajput) — AI-Powered Trip Planning Backend
+> Node.js · Express.js · MongoDB · OpenRouter API · JWT
+
+- Scalable RESTful backend for AI-powered travel planning
+- JWT authentication & middleware-based route protection
+- Integrated multiple LLM models via OpenRouter with fallback logic
+- Dynamic itinerary & budget optimization using MongoDB aggregation
 
 ---
 

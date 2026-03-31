@@ -15,12 +15,10 @@
 ```yaml
 name: Arjun Singh Panwar
 role: MCA Student @ NIT Trichy | Full-Stack Developer
-location: Trichy, Tamil Nadu, India
+location: NIT Trichy, Tamil Nadu, India
 interests:
   - Data Structures & Algorithms
   - Backend Development
-  - Operating Systems
-  - Open Source
 currently_building: MCARepo — Academic Resource Sharing Platform
 ```
 
@@ -101,7 +99,7 @@ currently_building: MCARepo — Academic Resource Sharing Platform
 <p align="center">
   Feel free to reach out for collaborations, projects, or just a tech chat!<br/><br/>
   <a href="mailto:arjunspanwar07@gmail.com">📧 arjunspanwar07@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/arjun-singh-panwar">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="www.linkedin.com/in/arjun-s-rajput">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/arjunsrajput">🐙 GitHub</a>
 </p>
 

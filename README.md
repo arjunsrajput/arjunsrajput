@@ -19,7 +19,7 @@ Location: NIT Trichy, Tamil Nadu, India
 Interests:
   - Data Structures & Algorithms
   - Backend Development
-Currently_Building: MCARepo — Academic Resource Sharing Platform
+Currently Building: MCARepo — Academic Resource Sharing Platform
 ```
 
 ---
@@ -30,16 +30,16 @@ Currently_Building: MCARepo — Academic Resource Sharing Platform
 > React · Node.js · Express.js · MongoDB · Cloudinary · JWT
 
 - Full-stack platform for MCA students to upload & discover study materials
-- Metadata-driven organization: batch, year, semester, subject, exam type
+- Metadata driven organization: batch, year, semester, subject, exam type
 - JWT auth with email verification, password reset & admin routes
 - Features: contribution leaderboard, batch directory, GPA calculator
 
 ---
 
-### 🗺️ [YatraAI](https://github.com/arjunsrajput) — AI-Powered Trip Planning Backend
+### 🗺️ [YatraAI](https://github.com/arjunsrajput) — AI Powered Trip Planning Backend
 > Node.js · Express.js · MongoDB · OpenRouter API · JWT
 
-- Scalable RESTful backend for AI-powered travel planning
+- Scalable RESTful backend for AI powered travel planning
 - JWT authentication & middleware-based route protection
 - Integrated multiple LLM models via OpenRouter with fallback logic
 - Dynamic itinerary & budget optimization using MongoDB aggregation
@@ -77,7 +77,6 @@ Currently_Building: MCARepo — Academic Resource Sharing Platform
 - 🏅 **Rank 1** in Ujjain District — Class X, awarded by District Collector
 - 🎓 **Merit Scholarship** — Baba Jayguru Dev Foundation
 - ✅ **Certified** in SQL & Problem Solving — HackerRank
-- 🥉 **3rd Place** in March Past — Sportsfete'24, NIT Trichy
 
 ---
 

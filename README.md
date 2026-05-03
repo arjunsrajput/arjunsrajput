@@ -22,39 +22,6 @@ Interests:
 Currently Building: MCARepo — Academic Resource Sharing Platform
 ```
 
----
-
-## 🚀 Projects
-
-### 📚 [MCARepo](https://github.com/arjunsrajput) — Academic Resource Sharing Platform
-> React · Node.js · Express.js · MongoDB · Cloudinary · JWT
-
-- Full-stack platform for MCA students to upload & discover study materials
-- Metadata driven organization: batch, year, semester, subject, exam type
-- JWT auth with email verification, password reset & admin routes
-- Features: contribution leaderboard, batch directory, GPA calculator
-
----
-
-### 🗺️ [YatraAI](https://github.com/arjunsrajput) — AI Powered Trip Planning Backend
-> Node.js · Express.js · MongoDB · OpenRouter API · JWT
-
-- Scalable RESTful backend for AI powered travel planning
-- JWT authentication & middleware-based route protection
-- Integrated multiple LLM models via OpenRouter with fallback logic
-- Dynamic itinerary & budget optimization using MongoDB aggregation
-
----
-
-### 🔗 [NanoURL](https://github.com/arjunsrajput) — URL Shortener
-> Node.js · Express.js · MongoDB · HTML · CSS
-
-- Generates unique short IDs with efficient redirection
-- Click analytics via MongoDB visit-history logging
-- Modular MVC architecture with RESTful API design
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">

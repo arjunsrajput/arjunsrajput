@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arjun+Singh+Panwar+%F0%9F%91%8B;MCA+Student+%40+NIT+Trichy;Full-Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </h1>
 
@@ -64,4 +64,4 @@ Currently Building: MCARepo — Academic Resource Sharing Platform
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+</p> -->

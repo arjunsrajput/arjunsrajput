@@ -16,7 +16,7 @@ A centralized repository built for MCA students to access **study materials, not
 
 ### 📊 Customer Churn Prediction System
 
-An end-to-end **Machine Learning** web application that predicts whether a telecom customer is likely to churn based on demographic information, service subscriptions, and billing history. The project includes **EDA, feature engineering, class imbalance handling using SMOTEENN, Random Forest classification, and deployment with Flask & Docker**.
+An end-to-end Machine Learning application that predicts telecom customer churn using customer demographics, services, and billing data. Built with Random Forest, Flask, Docker, and deployed on Hugging Face Spaces.
 
 🌐 **Live Demo:** [Visit Website](https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction)
 

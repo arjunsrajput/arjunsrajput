@@ -10,7 +10,7 @@ A centralized repository built for MCA students to access **study materials, not
 
 🌐 **Live Website:** https://mcarepo2024.vercel.app
 
-[![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mcarepo2024.vercel.app)
+<!-- [![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mcarepo2024.vercel.app) -->
 
 
 ### 📊 Customer Churn Prediction System
@@ -19,7 +19,7 @@ An end-to-end **Machine Learning** web application that predicts whether a telec
 
 🌐 **Live Demo:** https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction
 
-[![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction)
+<!-- [![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

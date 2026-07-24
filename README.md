@@ -8,9 +8,9 @@
 
 A centralized repository built for MCA students to access **study materials, notes, previous year question papers, lab resources, and other academic content** from a single platform.
 
-<!-- 🌐 **Live Website:** https://mcarepo2024.vercel.app/ -->
+🌐 **Live Website:** https://mcarepo2024.vercel.app
 
-🌐 **Live Website:** [![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mcarepo2024.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mcarepo2024.vercel.app)
 
 
 ### 📊 Customer Churn Prediction System

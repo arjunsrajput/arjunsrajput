@@ -8,7 +8,8 @@
 
 A centralized repository built for MCA students to access **study materials, notes, previous year question papers, lab resources, and other academic content** from a single platform.
 
-🌐 **Live Website:** https://mcarepo2024.vercel.app
+<!-- 🌐 **Live Website:** https://mcarepo2024.vercel.app -->
+🌐 **Live Demo:** [Visit Website](https://mcarepo2024.vercel.app)
 
 <!-- [![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mcarepo2024.vercel.app) -->
 
@@ -17,7 +18,7 @@ A centralized repository built for MCA students to access **study materials, not
 
 An end-to-end **Machine Learning** web application that predicts whether a telecom customer is likely to churn based on demographic information, service subscriptions, and billing history. The project includes **EDA, feature engineering, class imbalance handling using SMOTEENN, Random Forest classification, and deployment with Flask & Docker**.
 
-🌐 **Live Demo:** https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction
+🌐 **Live Demo:** [Visit Website](https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction)
 
 <!-- [![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction) -->
 

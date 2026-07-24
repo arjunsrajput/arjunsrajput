@@ -6,7 +6,7 @@
 
 ### 📚 MCA Repository 2024
 
-A centralized repository built for MCA students to access **study materials, notes, previous year question papers, lab resources, and other academic content** from a single platform.
+A centralized repository built for NITT MCA students to access **study materials, notes, previous year question papers, lab resources, and other academic content** from a single platform.
 
 <!-- 🌐 **Live Website:** https://mcarepo2024.vercel.app -->
 🌐 **Live Demo:** [Visit Website](https://mcarepo2024.vercel.app)

@@ -12,4 +12,11 @@ A centralized repository built for MCA students to access **study materials, not
 
 [![Live Demo](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mcarepo2024.vercel.app)
 
+
+### 📊 Customer Churn Prediction System
+
+An end-to-end **Machine Learning** web application that predicts whether a telecom customer is likely to churn based on demographic information, service subscriptions, and billing history. The project includes **EDA, feature engineering, class imbalance handling using SMOTEENN, Random Forest classification, and deployment with Flask & Docker**.
+
+🌐 **Live Demo:** https://huggingface.co/spaces/arjunsrajput/customer-churn-prediction
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

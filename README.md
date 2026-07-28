@@ -1,6 +1,19 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun.s.rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-s-rajput) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunspanwar07@gmail.com) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunsrajput.visitor-badge)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun.s.rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-s-rajput) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunspanwar07@gmail.com) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunsrajput.visitor-badge) -->
+<a href="https://instagram.com/arjun.s.rajput">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+</a>&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/arjun-s-rajput">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+
+<a href="mailto:arjunspanwar07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=arjunsrajput.visitor-badge">
 
 ## Project
 

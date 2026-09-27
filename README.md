@@ -6,19 +6,13 @@
   <a href="https://www.linkedin.com/in/arjun-s-rajput"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/arjunsrajput"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:arjunsinghpanwar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arjunsrajput&style=for-the-badge&color=aa9bef&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
-
-- 🎓 Pursuing **MCA at NIT Trichy** — secured **AIR 51** in NIMCET 2024 among 25,000+ candidates
-- 💻 Building full-stack apps and AI-powered tools — React, Node.js, FastAPI, and RAG/LLM pipelines
-- 🧠 Into **Machine Learning & applied AI** — from churn prediction models to document-QA assistants
-- 🏆 **LeetCode Knight badge** — top 5.54% globally
-- 📍 Based in India
 
 ---
 
@@ -58,19 +52,6 @@
 
 ---
 
-### 📁 Projects
-
-**🗂️ [CampusVault](https://github.com/arjunsrajput) — Academic Resource Sharing Platform**
-`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
-Full-stack platform serving 100+ active students with 200+ uploaded study materials. Features JWT authentication, role-based access control, email verification, contribution leaderboards, batch directories, and a GPA calculator.
-
-**📄 [AskMyDoc](https://github.com/arjunsrajput) — RAG-Based Personal Document Assistant**
-`Python` `FastAPI` `RAG` `Hugging Face` `ChromaDB` `Google Gemini`
-End-to-end document assistant that ingests PDF/DOCX/TXT files and retrieves relevant content using Hugging Face embeddings and ChromaDB. Integrates Google Gemini with prompt guardrails for context-aware, page-cited answers. Deployed on Streamlit Cloud.
-
-**📉 [ChurnSense](https://github.com/arjunsrajput) — Customer Churn Prediction System**
-`Python` `Pandas` `NumPy` `Scikit-learn` `SHAP`
-Churn prediction pipeline with feature engineering, SMOTE class-imbalance handling, and a Logistic Regression vs Random Forest comparison, evaluated via precision/recall/F1. Uses SHAP to interpret key churn drivers.
 
 ---
 
@@ -85,24 +66,7 @@ Churn prediction pipeline with feature engineering, SMOTE class-imbalance handli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsrajput&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-### 🏆 Achievements
-
-- 🥇 **NIMCET 2024** — All India Rank 51 among 25,000+ candidates, earning admission to NIT Trichy
-- ⚔️ **LeetCode Knight badge** — top 5.54% globally
-- 🏅 Rank 1, Barnagar Tehsil — Class XII (Mathematics stream)
-- 🏅 Rank 1, Ujjain District — Class X, recognized by the District Collector
-- 🦈 GitHub **Pull Shark** achievement
-
----
-
-### 🤝 Positions of Responsibility
-
-- **Volunteer, VERSION'25** (Public Relations Committee) — NIT Trichy, Mar 2025
-- **Class Representative, BCA** — Softvision Institute of Biotechnology & Science, Aug 2020 – Dec 2021
-
----
 
 <div align="center">
 
